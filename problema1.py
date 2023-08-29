@@ -9,6 +9,6 @@
 #		  mundo 44
 #La salida debe ser
 #         ('mundo', 44, 20, 90, 'hola', 'mundo', 44)
-t = input()
-m = input()
-print(m)
+t1 = input()
+t2 = input()
+print(t2 + t1 + t2)
